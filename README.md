@@ -4,7 +4,7 @@
 
       Normalization
       Data Anaysis
-      ML model :
-                Train Test Split
-                SVC
+      ML model 
+      Train Test Split
+      SVC
       
