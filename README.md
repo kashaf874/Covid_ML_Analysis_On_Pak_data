@@ -8,3 +8,6 @@
       Train Test Split
       SVC
       
+## In this project I refereced two already publish research paper, they uses another data or use own country data
+      
+      
